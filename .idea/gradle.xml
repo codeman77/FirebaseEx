@@ -10,6 +10,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/cloudmessagingex" />
+            <option value="$PROJECT_DIR$/databaseex" />
+            <option value="$PROJECT_DIR$/storageex" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

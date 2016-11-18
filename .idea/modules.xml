@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/FirebaseEx.iml" filepath="$PROJECT_DIR$/FirebaseEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudmessagingex/cloudmessagingex.iml" filepath="$PROJECT_DIR$/cloudmessagingex/cloudmessagingex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databaseex/databaseex.iml" filepath="$PROJECT_DIR$/databaseex/databaseex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storageex/storageex.iml" filepath="$PROJECT_DIR$/storageex/storageex.iml" />
     </modules>
   </component>
 </project>

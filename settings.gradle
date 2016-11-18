@@ -1,1 +1,1 @@
-include ':app', ':cloudmessagingex'
+include ':app', ':cloudmessagingex', ':databaseex', ':storageex', ':storageex'

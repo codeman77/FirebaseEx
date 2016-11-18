@@ -88,6 +88,9 @@ public class MainActivity extends AppCompatActivity {
                 // push는 firebase가 임의로 중복되지 않은 키를 생성해서 저장
                 // push로 하지 않을 경우 덮어 씌움
                 myRef.push().setValue(str);
+
+                // EditText 초기화
+                editText.setText("");
             }
         });
 
